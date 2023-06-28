@@ -1,0 +1,48 @@
+[
+    {
+        "nome": "Ana",
+        "sobrenome": "paula",
+        "empresa": "Ritter",
+        "pais":"Brasil",
+        "endereco":"Av.cristovao colombo",
+        "complemento":"casa",
+        "cidade":"cachoeirinha",
+        "estado":"Rio Grande do Sul",
+        "cep":"94975280",
+        "telefone":"984784854",
+        "email":"teste@gmail.com"
+
+    },
+    
+
+    {
+        "nome": "rosana",
+        "sobrenome": "beatriz",
+        "empresa": "lancaster",
+        "pais":"Brasil",
+        "endereco":"Av.cristovao colombo",
+        "complemento":"casa",
+        "cidade":"Porto Alegre",
+        "estado":"Rio Grande do Sul",
+        "cep":"94975280",
+        "telefone":"99852244",
+        "email":"teste@gmail.com"
+
+    },
+
+
+    {
+        "nome": "Samara",
+        "sobrenome": "lima",
+        "empresa": "Ritter",
+        "pais":"Brasil",
+        "endereco":"Av.cristovao colombo",
+        "complemento":"casa",
+        "cidade":"cachoeirinha",
+        "estado":"Rio Grande do Sul",
+        "cep":"94975280",
+        "telefone":"88953636",
+        "email":"teste@gmail.com"
+    }
+
+]

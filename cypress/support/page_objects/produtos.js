@@ -1,14 +1,7 @@
 class preencherCheckout {
 
     preencherCheckout(nome, sobrenome, empresa, pais, endereco, complemento, cidade, estado, cep, telefone, email){
-        let quantidade = 4
-        cy.get('[class="product-block grid"]')
-            .contains('Abominable Hoodie').click()
-        cy.get('.button-variable-item-S').click()
-        cy.get('.button-variable-item-Blue').click()
-        cy.get('.input-text').clear().type(quantidade)
-        cy.get('.single_add_to_cart_button').click()
-        cy.get('.dropdown-toggle > .mini-cart-items').should('contain', quantidade)
+       
         
 
         cy.get('.dropdown-toggle > .text-skin > .icon-basket').click()

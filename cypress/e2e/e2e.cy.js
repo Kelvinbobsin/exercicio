@@ -35,17 +35,17 @@ context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
 
     it('Deve preencher o checkout com sucesso', () => {
         produtos.preencherCheckout(
-            dadosprodutos[0].nome,
-            dadosprodutos[0].sobrenome, 
-            dadosprodutos[0].empresa, 
-            dadosprodutos[0].pais, 
-            dadosprodutos[0].endereco, 
-            dadosprodutos[0].complemento, 
-            dadosprodutos[0].cidade, 
-            dadosprodutos[0].estado, 
-            dadosprodutos[0].cep, 
-            dadosprodutos[0].telefone, 
-            dadosprodutos[0].email
+            dadosprodutos[1].nome,
+            dadosprodutos[1].sobrenome, 
+            dadosprodutos[1].empresa, 
+            dadosprodutos[1].pais, 
+            dadosprodutos[1].endereco, 
+            dadosprodutos[1].complemento, 
+            dadosprodutos[1].cidade, 
+            dadosprodutos[1].estado, 
+            dadosprodutos[1].cep, 
+            dadosprodutos[1].telefone, 
+            dadosprodutos[1].email
 
         )
 
